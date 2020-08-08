@@ -85,3 +85,4 @@ while True and account:
         print("Thanks for visiting ""\n""----HIVANG HOSPITAL")
         print("Logged out")
         break
+#Lol
